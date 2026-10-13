@@ -30,7 +30,6 @@ Me gusta combinar la tecnología, la creatividad y el diseño para crear proyect
   <img src="https://img.shields.io/badge/MySQL-D5EAFF?style=for-the-badge&logo=mysql&logoColor=333333" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Bootstrap-EAD9FF?style=for-the-badge&logo=bootstrap&logoColor=333333" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Python-D8F3DC?style=for-the-badge&logo=python&logoColor=333333" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-FFD6E7?style=for-the-badge&logo=opencv&logoColor=333333" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Git-FFD8CB?style=for-the-badge&logo=git&logoColor=333333" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-F1E5FF?style=for-the-badge&logo=github&logoColor=333333" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-D9EFFF?style=for-the-badge&logo=visualstudiocode&logoColor=333333" alt="Visual Studio Code"/>
