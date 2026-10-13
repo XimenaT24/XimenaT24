@@ -10,10 +10,9 @@ Me gusta combinar la tecnología, la creatividad y el diseño para crear proyect
 
 ୨୧ Sobre mí
 
-* 🎓 Estudiante de Ingeniería en Tecnologías de la Información y Comunicación Digital.
+* 🎓 Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital.
 * 💻 Me gusta desarrollar páginas web modernas, intuitivas y responsivas.
 * 🗄️ Trabajo con bases de datos y sistemas web administrables.
-* 🐍 Explorando Python, OpenCV y MediaPipe.
 * 🤖 Interesada en Arduino, electrónica y automatización.
 * 🎨 Disfruto cuidar los detalles visuales de cada proyecto.
 * 🌸 Siempre aprendiendo algo nuevo.
